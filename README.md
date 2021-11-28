@@ -1,24 +1,9 @@
-# README
+# Odin Flickr
+This is a Flickr photostream app using Flickr's API for an Odin Project assignment.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Task
+Create an app using Flickr's API that allows the user to enter a Flickr UserID and get a stream of photos back.
 
-Things you may want to cover:
+## What I used
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## What I learned
